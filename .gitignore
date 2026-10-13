@@ -1,0 +1,15 @@
+.agents/
+.aws/
+.codex/
+.idea/
+.vscode/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+*.log
+*.bak
+*.tmp
+*.swp
+*~
